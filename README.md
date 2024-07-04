@@ -2,7 +2,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-brightgreen)
 
-<b>A Simple Privacy Browser.</b></br>
+<b>A Simple Privacy Browser.</b></br></br>
 
 <!-- <b>Apk Link (Try it yourself & I would love to hear your feedback 🙂):<b>
   <br>https://drive.google.com/file/d/1Ser8PKnSWG6Gx-0LOalay8o1Ub9RxBZE/view?usp=sharing (v4.0.1) -->
